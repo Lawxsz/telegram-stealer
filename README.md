@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/Lawxsz/telegram-stealer/telegram_image.png"
+!https://raw.githubusercontent.com/Lawxsz/telegram-stealer/main/telegram_image.png
