@@ -1,3 +1,16 @@
-Proyect in beta mode!
+# Source Released Telegram Steal
 
-![telegram_image](https://user-images.githubusercontent.com/116668706/215679459-6c9c86f3-5f11-41c5-b1ec-8016a4d1c6ff.png)
+## Info
+
+- 🌟 Just 15 Lines!
+- ✅ FUD
+- 🚀 Fast
+
+## About
+
+-⭐️ Give me a Star for more sources and tools!!
+-🌠 Follow Me!
+
+## Purposes Only
+
+- I do not support any type of malicious activity with my code, nor take any responsability for any damage caused by it. Use at your own risk. For learning purposes
