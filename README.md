@@ -14,3 +14,9 @@
 ## Purposes Only
 
 - I do not support any type of malicious activity with my code, nor take any responsability for any damage caused by it. Use at your own risk. For learning purposes
+
+# Seed Phraser 
+
+-t.me/prysmax
+-t.me/lawxsz
+-prysmaxsoftware.cloud
