@@ -17,6 +17,6 @@
 
 # Seed Phraser 
 
--t.me/prysmax
--t.me/lawxsz
--prysmaxsoftware.cloud
+-t.me/prysmaxsoftware
+-t.me/lawxszdev
+-prysmax.cloud
